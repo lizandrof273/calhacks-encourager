@@ -21,7 +21,7 @@ The following are future features:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/lizandrof273/lizandrofbuinsta/blob/master/walkThrough.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lizandrof273/calhacks-encourager/blob/master/Encourager.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
