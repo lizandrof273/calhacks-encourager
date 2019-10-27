@@ -1,5 +1,6 @@
 package com.example.encourager;
 
+import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.TransitionDrawable;
 import android.os.Bundle;
@@ -45,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
         bg = findViewById(R.id.imageView);
 
         wordsOfEncourgment.add("Trust the process.");
-        wordsOfEncourgment.add("Trust the process.");
         wordsOfEncourgment.add("If it’s meant to be, it’ll happen.");
         wordsOfEncourgment.add( "Take 12 deep breaths.");
         wordsOfEncourgment.add("Sometimes a break is the best idea");
@@ -73,7 +73,6 @@ public class MainActivity extends AppCompatActivity {
         wordsOfEncourgment.add("Just when the caterpillar thought the world was ending, he turned into a butterfly.");
         wordsOfEncourgment.add("You really have done so much and come so far.");
 
-        //submitButton.setOnClickListener((View.OnClickListener) this);
 
         next = (int) (Math.random() * backgrounds.length);
         current = new Drawable[] {bg.getDrawable(),
@@ -85,6 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 Random rand = new Random();
                 randIndex = rand.nextInt(wordsOfEncourgment.size());
                 setTv.setText(wordsOfEncourgment.get(randIndex));
+                setTv.setBackgroundColor(Color.BLACK);
                 nextTransition();
 
             }
