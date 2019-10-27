@@ -12,9 +12,9 @@ The following functionality is completed:
 
 The following are future features:
 
-- [] shake phone for encourage qoute
+- [] shake phone for encouraging quote
 - [] different categories for the user to select from
-- [] User can submit their own qoutes
+- [] User can submit their own quotes
 
 
 ## Video Walkthrough
@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-We built this application at cal hacks. This application was fun to build becuase we wanted to create something that could take stress out of the day. Together as a team we discussed several differnet types of uplifiting qoutes we could have in the application and decided to go with a simple design for the user to quickly be encourged and continue to work on themsleves. We beleive mental health is extremely important and hope to help anyone who is having a rough day.
+We built this application at cal hacks. This application was fun to build because we wanted to create something that could take the stress out of the day. Together as a team we discussed several different types of uplifting quotes we could have in the application and decided to go with a simple design for the user to quickly be encouraged and continue to work on themselves. We believe mental health is extremely important and hope to help anyone who is having a rough day.
 
 ## License
 
