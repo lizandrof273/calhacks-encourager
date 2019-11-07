@@ -1,6 +1,6 @@
 # Calhacks Project - Encourage
 
-Encourage is an Android Application that has suppritive and motivational messages gor users who may need it.
+Encourage is an Android Application that has supportive and motivational messages gor users who may need it.
 
 ## User Stories
 
